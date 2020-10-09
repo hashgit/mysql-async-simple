@@ -27,3 +27,5 @@ try {
 For more information visit github
 https://github.com/hashgit/mysql-async-simple#readme
 
+### NPM
+Available to install as a package at npm registry (https://www.npmjs.com/package/mysql-async-simple)
