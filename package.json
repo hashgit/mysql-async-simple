@@ -1,6 +1,6 @@
 {
   "name": "mysql-async-simple",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An async wrapper for mysql client",
   "main": "index.js",
   "scripts": {
