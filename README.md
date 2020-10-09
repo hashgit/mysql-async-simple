@@ -29,3 +29,7 @@ https://github.com/hashgit/mysql-async-simple#readme
 
 ### NPM
 Available to install as a package at npm registry (https://www.npmjs.com/package/mysql-async-simple)
+
+### Credits
+This package is based on this blog post by Michał Męciński
+https://codeburst.io/node-js-mysql-and-async-await-6fb25b01b628
