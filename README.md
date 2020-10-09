@@ -25,5 +25,5 @@ try {
 ```
 
 For more information visit github
-https://github.com/hashgit/mysql-async-simple#readme - automatic!
+https://github.com/hashgit/mysql-async-simple#readme
 
